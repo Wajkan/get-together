@@ -11,12 +11,13 @@ Built to be a safe space, free from forced tracking, algorithms and surveillance
 
 - Visibility — Stay completely hidden or go public, you decide
 - Profile — Design your own look, your space your rules
+- Follow — Follow each other's profiles on your own terms
 - Groups — Create separate groups each with their own reel
-- Private main reel — A personal feed combining all your groups in one place
+- Private main reel — A personal feed combining all your groups and everyone you follow in one place
 - Media sharing — Share high-resolution images, videos and audio
 - Video messages — Send and receive video messages
 - Audio messages — Send and receive voice messages
-- Text messages — Simple encrypted text communication
+- Text messages — Send and receive text messages
 - Nostalgia — Keep your memories forever, on your own terms
 
 ---
