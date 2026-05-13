@@ -9,15 +9,15 @@ Built to be a safe space, free from forced tracking, algorithms and surveillance
 
 ## Key Features
 
-Visibility — Stay completely hidden or go public, you decide
-Profile — Design your own look, your space your rules
-Groups — Create separate groups each with their own reel
-Private main reel — A personal feed combining all your groups in one place
-Media sharing — Share high-resolution images, videos and audio
-Video messages — Send and receive video messages
-Audio messages — Send and receive voice messages
-Text messages — Simple encrypted text communication
-Nostalgia — Keep your memories forever, on your own terms
+- Visibility — Stay completely hidden or go public, you decide
+- Profile — Design your own look, your space your rules
+- Groups — Create separate groups each with their own reel
+- Private main reel — A personal feed combining all your groups in one place
+- Media sharing — Share high-resolution images, videos and audio
+- Video messages — Send and receive video messages
+- Audio messages — Send and receive voice messages
+- Text messages — Simple encrypted text communication
+- Nostalgia — Keep your memories forever, on your own terms
 
 ---
 
