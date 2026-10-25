@@ -1,32 +1,11 @@
 # Get Together
-*"No data collection and completely anonymous — your profile, your design, your rules"*
 
-A social platform owned entirely by the individual. Each person has full control over their own application, sharing authorization-based logic to exchange and share videos, images and memories with whoever they choose — in an anonymous, encrypted space.
+*"This concept is built to create a safe space, free from forced tracking, data collection, manipulation, algorithms and surveillance"*
 
-Built to be a safe space, free from forced tracking, algorithms and surveillance. Simple enough for anyone to use.
+A social platform owned entirely by the individual. 
 
----
+All we are really doing is sharing images, videos, memories while talking to eachother. This interaction should not be controlled or manipulatated by anyone. 
 
-## Key Features
+This application works between two friends only or between a whole network.
 
-- Visibility — Stay completely hidden or go public, you decide
-- Profile — Design your own look, your space your rules
-- Follow — Follow each other's profiles on your own terms
-- Groups — Create separate groups each with their own reel
-- Private main reel — A personal feed combining all your groups and everyone you follow in one place
-- Media sharing — Share high-resolution images, videos and audio
-- Video messages — Send and receive video messages
-- Audio messages — Send and receive voice messages
-- Text messages — Send and receive text messages
-- Nostalgia — Keep your memories forever, on your own terms
-
----
-
-## Privacy by Design
-
-- No data collection
-- Fully anonymous
-- No algorithms
-- No surveillance
-- You own your data
-- Works between two friends or an entire network — your choice
+How will i do it?.. How much will this solution cost? I am working on it..
